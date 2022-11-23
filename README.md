@@ -64,7 +64,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
   - เลือกที่อยู่ `(`เพื่อให้ผู้ให้บริจาคสามารถรู้ระยะห่าง ในกรณีที่ผู้ให้สะดวกไปส่งเอง`)` `(`ตอนแสดง แสดงแค่จังหวัด`)`
 
 ## View Post
-----------
+<!---------->
 ### หน้าดูโพสต์รวม View all post 
   - textfield search keyword from post name
   - Filter
@@ -100,7 +100,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
 
 
 ## View all requests
-----------
+<!---------->
 ### View 'received' request to our post <span style="color: #7d7d7d">*(ดูคำขอที่คนอื่นที่ส่งมา)*</span>
    - แสดง request ของคนอื่นที่ส่งมายังโพสต์ของตนเอง
    - เลือกประเภทโพสต์ `{`โพสต์รับบริจาค, โพสต์ให้บริจาค`}`
@@ -127,7 +127,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
         > - โดยหากไม่ดำเนินการจัดส่งภายใน 7 วัน request จะถูกยกเลิก, หักค่า credit ของผู้ให้บริจาค
         > - และระบบจะลบโพสต์ และแจ้งเตือนให้กับทั้งสองฝ่าย
    - ยกเลิก request ของเรา
-----------
+<!---------->
 
 ## View profile
    - ชื่อ รายละเอียดส่วนตัว รูปโปรไฟล์
