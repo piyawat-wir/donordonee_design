@@ -2,6 +2,7 @@
 Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software Design
 
 # Agent Functions
+แสดงการกระทำต่างๆ ที่ Agent แต่ละคนสามารถทำได้
 
 ## Application Automation
  - Notification `(`เมื่อมีการส่งคำขอ`)`
