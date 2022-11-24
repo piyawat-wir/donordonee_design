@@ -10,7 +10,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
 ## User
   - Login
   - Register
-  - Post
+  - Create Post
   - View posts
   - Edit post
   - Delete post
