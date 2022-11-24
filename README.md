@@ -14,6 +14,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
   - View posts
   - Edit post
   - Delete post
+  - Send request
   - View all requests
   - Accept/Deny request
   - Report anomalies
