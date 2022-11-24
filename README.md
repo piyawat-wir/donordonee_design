@@ -15,6 +15,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
   - Edit post
   - Delete post
   - View all requests
+  - Accept/Deny request
   - Report anomalies
   - View profile
   - แสดง Donation code `(อาจเป็น QR code หรือ Barcode เพื่อให้ เจ้าหน้าที่รับของ สามารถรู้รายละเอียดของที่บริจาค)`
