@@ -1,6 +1,12 @@
 # Design Overview
 Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software Design
 
+# Links
+- [SRS Software Requirement Specification](https://docs.google.com/spreadsheets/d/1LbI3-tEK-H4SgEiou8ps1dVFIKa1ZUSD/edit#gid=1888782410)
+- [Data Dictionary](https://docs.google.com/spreadsheets/d/171JdCZPft2UUQCD8g1HEjEpYSKNNE8YKu2Qt74dbiJM/edit#gid=1902153831)
+- [ER Diagram](https://online.visual-paradigm.com/share.jsp?id=323231313436312d31#diagram:workspace=cwkwxdsz&proj=0&id=1)
+- [Class Diagram](https://online.visual-paradigm.com/share.jsp?id=323231313436312d32#diagram:workspace=cwkwxdsz&proj=0&id=2)
+
 # Agent Functions
 แสดงการกระทำต่างๆ ที่ Agent แต่ละคนสามารถทำได้
 
