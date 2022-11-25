@@ -10,6 +10,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
 # Diagrams
 
 ![ERDiagram_img](./diagram/donorDoneeERD.png)
+![ClassDiagram_img](./diagram/donorDoneeClassDiagram.png)
 
 ### Class diagram : Java implementation example
 ```Java
