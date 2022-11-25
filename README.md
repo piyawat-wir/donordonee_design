@@ -1,3 +1,6 @@
+Delta Group
+[Delta Group Icon](https://media.istockphoto.com/id/1190349593/vector/two-triangle-tech-business-logo-design-template-stock-vector-illustration-isolated-on-white.jpg)
+
 # Design Overview
 Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software Design
 
