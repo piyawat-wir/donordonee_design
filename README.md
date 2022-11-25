@@ -11,6 +11,52 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
 
 ![ERDiagram_img](./diagram/donorDoneeERD.png)
 
+### Class diagram implementation example
+```Java
+public class Main {
+	public static void main(String[] args) {
+		Post myPost = new Post();
+		myPost.addTag(Tag.clothes);
+		myPost.addTag(Tag.furniture);
+
+		if (myPost.hasTag(Tag.clothes)) {
+			// do something
+			System.out.println(Tag.clothes.getName());
+		}
+	}
+}
+```
+```Java
+class Post {
+	private ArrayList<Tag> taglist = new ArrayList<>();
+
+	public Post() {}
+
+	public void addTag(Tag t) {
+		taglist.add(t);
+	}
+	public boolean hasTag(Tag t) {
+		if (taglist.contains(t)) return true;
+		return false;
+	}
+}
+```
+```Java
+class Tag {
+	private String typename;
+
+	public Tag(String tn) {
+		typename = tn;
+	}
+
+	public String getName() { return typename; }
+
+	public static Tag clothes = new Tag("Clothes and Wearables");
+	public static Tag food = new Tag("Food and Drinks");
+	public static Tag furniture = new Tag("Furniture");
+}
+```
+
 # Agent Functions
 แสดงการกระทำต่างๆ ที่ Agent แต่ละคนสามารถทำได้
 
