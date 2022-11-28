@@ -6,7 +6,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
 - [Data Dictionary](https://docs.google.com/spreadsheets/d/171JdCZPft2UUQCD8g1HEjEpYSKNNE8YKu2Qt74dbiJM/edit#gid=1902153831)
 - [ER Diagram](https://online.visual-paradigm.com/share.jsp?id=323231313436312d31#diagram:workspace=cwkwxdsz&proj=0&id=1)
 - [Class Diagram](https://online.visual-paradigm.com/share.jsp?id=323231313436312d32#diagram:workspace=cwkwxdsz&proj=0&id=2)
-- [Activity Diagram@ Miro](https://miro.com/app/board/uXjVP_63UNI=/)
+- [All Diagrams & Presentation @ Miro](https://miro.com/app/board/uXjVP_63UNI=/)
 
 # Diagrams
 
