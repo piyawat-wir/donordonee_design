@@ -7,6 +7,7 @@ Donor/Donee Application design Project for EGCO321 Database & EGCO343 Software D
 - [ER Diagram](https://online.visual-paradigm.com/share.jsp?id=323231313436312d31#diagram:workspace=cwkwxdsz&proj=0&id=1)
 - [Class Diagram](https://online.visual-paradigm.com/share.jsp?id=323231313436312d32#diagram:workspace=cwkwxdsz&proj=0&id=2)
 - [All Diagrams & Presentation @ Miro](https://miro.com/app/board/uXjVP_63UNI=/)
+- [Final Presentation @ Canva](https://www.canva.com/design/DAFTfAfBdCA/bq1FRzGpaq-zyaXoQWyteg/edit?utm_content=DAFTfAfBdCA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Diagrams
 
